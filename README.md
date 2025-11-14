@@ -1,0 +1,1 @@
+Resume validator (NLP + ML, no LLM)
