@@ -1,0 +1,10 @@
+- **Key Phrase Extraction** is an NLP technique used to identify the most important words or phrases in a text.
+- It helps in quickly understanding the **core topics** of a document.
+- Key phrases are usually **noun phrases** that represent meaningful concepts.
+- Common approaches include **rule-based**, **statistical**, and **machine learning** methods.
+- Rule-based methods rely on **POS tagging and grammar patterns**.
+- Statistical methods use techniques like **TF-IDF** to find important terms.
+- ML-based methods learn key phrases from labeled data.
+- Key phrase extraction is widely used in **search, summarization, and document indexing**.
+- It improves information retrieval and content analysis.
+- Key phrase extraction is a foundational concept for **modern NLP and RAG systems**.
