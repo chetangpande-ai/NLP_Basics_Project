@@ -26,3 +26,4 @@ tqdm==4.67.1
 # Run: python -m spacy download en_core_web_sm
 requests
 beautifulsoup4
+sentence-transformers
